@@ -1,7 +1,7 @@
 setwd('C:\\Users\\fjohn\\OneDrive\\Documents\\PROJECTS\\AM Primer Johnson-Nichols\\Chapter 10 solve MDPs')
 rm(list=ls())
 
-library(MDPtoolbox)  # package for MDPtoolbox for R by Chadès et al. 2014. Ecography 37:916-920.
+library(MDPtoolbox)  # package for MDPtoolbox for R by ChadÃ¨s et al. 2014. Ecography 37:916-920.
 library(matrixcalc)  # package for matrix calculations
 library(popbio)      # package for eigen analysis
 
